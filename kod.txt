@@ -2,3 +2,4 @@ kod, przyklad...
 @@@@@@@@@@@sdfsdfsdf
 "DDDDDDDDDDD"D"D
 Edycja na zdalnym repo.
+Edycja na lokalnym repo.
